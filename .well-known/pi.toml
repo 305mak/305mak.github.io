@@ -1,0 +1,6 @@
+[[CURRENCIES]]
+code = "FORGE"
+issuer = "G..."   # Replace later
+name = "FORGE Token"
+desc = "Utility token for the Forge.pi creative AI assistant on Pi Network."
+image = "https://305mak.github.io/forge-logo.png"
